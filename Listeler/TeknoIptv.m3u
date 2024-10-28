@@ -13,3 +13,5 @@ http://live3pop01.kablowebtv.com/Live/HLS/4089/2500.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true
+#EXTINF:-1 tvg-logo="https://dizi4.life/assets/img/uploads/83459834958349543.png" group-title="Deneme",Adanalı Youtube
+https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
