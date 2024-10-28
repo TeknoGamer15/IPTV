@@ -5,10 +5,6 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaogh bim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045
-http://live3pop01.kablowebtv.com/Live/HLS/4089/2500.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Ulusal",STAR TV HD
