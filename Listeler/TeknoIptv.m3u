@@ -5,6 +5,10 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+https://trkvz.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD
@@ -77,12 +81,15 @@ https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi4.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://dizi4.life/assets/img/uploads/5489068490539302.png" group-title="Belgesel",NATİONAL GEOGRAPHİC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8?live=true
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://dizi4.life/assets/img/uploads/84567458748355345.png" group-title="Belgesel",NATİONAL GEOGRAPHİC WİLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=194" group-title="Belgesel",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
