@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 FHD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=519" group-title="Ulusal",TRT 1 FHD
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://image.kanald.com.tr/i/kanald/100/1200x630/5b8c55b5e94fb71488087b88.jpg" group-title="Ulusal",KANAL D FHD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Ulusal",STAR TV HD
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://i.atv.com.tr/2016/11/24/1479975437229.jpg" group-title="Ulusal",A2 HD
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=507" group-title="Ulusal",TV8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://iftm.tmgrup.com.tr/2023/12/12/tv8-5-canli-izle-tv85-frekans-bilgileri-1702363174477.png" group-title="Ulusal",TV8.5 FHD
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=595" group-title="Ulusal",TV8.5 FHD
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="Ulusal",TEVE2 FHD
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
@@ -27,15 +27,21 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114" group-title="Ulusal",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.tmgrup.com.tr/ahbr/site/v2/i/player_image.png" group-title="Haber",A HABER FHD
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=106" group-title="Ulusal",TRT KURDİ HD
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=105" group-title="Ulusal",TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=79" group-title="Haber",A HABER FHD
 https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=512" group-title="Haber",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://im.haberturk.com/l/2023/01/24/ver1674582087/3559082/jpg/640x360" group-title="Haber",HABERTÜRK FHD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",HALK TV FHD
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=635" group-title="Haber",HALK TV FHD
 https://ythls.kekikakademi.org/youtube/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png" group-title="Haber",NTV HD
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/65ec2308a62a08cf17a3f020.jpg" group-title="Haber",CNN TÜRK HD
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" group-title="Haber",CNN TÜRK HD
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Haber",24 HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -57,9 +63,38 @@ https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT SPOR YILDIZ FHD
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
-#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi4.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi4.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Dizi",Adanalı Youtube
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-logo="https://dizi4.life/assets/img/uploads/5478784678345332.png" group-title="Belgesel",BEİN İZ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://dizi4.life/
+https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=435" group-title="Belgesel",DİSCOVERY CHANNEL HD
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="Belgesel",İNVESTİGATİON DİSCOVERY HD
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi4.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://dizi4.life/assets/img/uploads/5489068490539302.png" group-title="Belgesel",NATİONAL GEOGRAPHİC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://dizi4.life/assets/img/uploads/84567458748355345.png" group-title="Belgesel",NATİONAL GEOGRAPHİC WİLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=194" group-title="Belgesel",TRT BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Dizi",Adanalı
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/maxresdefault.jpg" group-title="Dizi",Cennet Mahallesi
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/maxresdefault.jpg" group-title="Dizi",Geniş Aile
+https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VYAgeUatOo/hq720_live.jpg" group-title="Dizi",Kardeşlerim Tüm Sezonlar
+https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/maxresdefault.jpg" group-title="Dizi",Selena
+https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z2SSpfbknj8/maxresdefault.jpg" group-title="Dizi",Yeni Gelin
+https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
