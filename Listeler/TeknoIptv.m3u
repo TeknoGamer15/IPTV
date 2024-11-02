@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=519" group-title="Ulusal",TRT 1 FHD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",TRT 1 FHD
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D FHD
@@ -109,12 +109,12 @@ https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 #EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true
 
-#EXTINF:-1 tvg-id="beINIZ.tr" tvg-logo="https://dizi4.life/assets/img/uploads/5478784678345332.png" group-title="Belgesel",BEİN İZ HD
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-iz-logo.png" group-title="Belgesel",BEİN İZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://dizi4.life/
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=435" group-title="Belgesel",DİSCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL HD
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="Belgesel",İNVESTİGATİON DİSCOVERY HD
@@ -138,7 +138,7 @@ https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=194" group-title="Belgesel",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=571" group-title="Belgesel",DMAX HD
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=245" group-title="Belgesel",TLC HD
