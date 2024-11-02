@@ -101,7 +101,11 @@ https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VYAgeUatOo/hq720_live.jpg" group-title="Dizi",Kardeşlerim Tüm Sezonlar
 https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WzLUV8GwTQXQTG1f2XzcVzfeE-c9yXtUri5IRo8qKJB4wT908CAnxbN8Jygo58Uk46nqGrlk3Xs=s900-c-k-c0x00ffffff-no-rj" group-title="Dizi",Kurtlar Vadisi Pusu
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/maxresdefault.jpg" group-title="Dizi",Selena
 https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z2SSpfbknj8/maxresdefault.jpg" group-title="Dizi",Yeni Gelin
 https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c4/%C3%87ukur.jpg" group-title="Deneme",Çukur 1.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2cf29645-9fc8-4bf5-ab2c-90fd916ab000&SecretKey=NtvApiSecret2014*&.m3u8
