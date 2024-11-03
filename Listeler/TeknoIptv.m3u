@@ -139,7 +139,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TLC_logo_%282023%29.svg" group-title="Belgesel",TLC HD
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/63fdf5a6866ac31b149aa2e0" group-title="Belgesel",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1
@@ -160,7 +160,7 @@ https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Youtube Dizi",Adanalı
 https://ythls.armelin.one/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ee9TqU7-N-o/hq720.jpg" group-title="Youtube Dizi",Bir Zamanlar Çukurova
+#EXTINF:-1 tvg-logo="https://tims.tv/wp-content/uploads/2019/10/BZC-1.jpg" group-title="Youtube Dizi",Bir Zamanlar Çukurova
 https://ythls.armelin.one/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/maxresdefault.jpg" group-title="Youtube Dizi",Cennet Mahallesi
@@ -175,13 +175,13 @@ https://ythls.armelin.one/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/slT7aQuQukE/hq720.jpg" group-title="Youtube Dizi",Kurtlar Vadisi Pusu
 https://ythls.armelin.one/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LrXSGDCnmnQ/hq720.jpg" group-title="Youtube Dizi",Sakarya Fırat
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b27359078a7716e10b1102fa82b4" group-title="Youtube Dizi",Sakarya Fırat
 https://ythls.armelin.one/channel/UCJbc3MgMFKqsCwTdrjWvVzQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/maxresdefault.jpg" group-title="Youtube Dizi",Selena
 https://ythls.armelin.one/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z2SSpfbknj8/maxresdefault.jpg" group-title="Youtube Dizi",Yeni Gelin
+#EXTINF:-1 tvg-logo="https://1001dizi.net/images2/dizi/arsiv/yeni-gelin.jpg" group-title="Youtube Dizi",Yeni Gelin
 https://ythls.armelin.one/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Youtube Çocuk",Diyanet Çocuk
