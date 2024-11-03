@@ -49,7 +49,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=79" group-title="Haber",A HABER FHD
-https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=512" group-title="Haber",TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -58,16 +58,16 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="4294" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/63ff0d17866ac3189cf375d9" group-title="Haber",SÖZCÜ TV HD
-https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=635" group-title="Haber",HALK TV FHD
-https://ythls.armelin.one/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png" group-title="Haber",NTV FHD
-https://ythls.armelin.one/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" group-title="Haber",CNN TÜRK HD
-https://ythls.armelin.one/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Haber",24 HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -100,7 +100,7 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
-https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi4.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
@@ -152,52 +152,52 @@ https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 https://nove.45a43030ce2f37199.click/i/canlimaclar9496.sbs/4011/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
-https://ythls.armelin.one/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rMjgoq_tMPE/hq720_live.jpg" group-title="Youtube Sinema",Yeşilçam (Arzu Film)
-https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Youtube Dizi",Adanalı
-https://ythls.armelin.one/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/Akasya_Duragi.jpg" group-title="Dizi",Akasya Durağı
 https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iS--P4KPEnyQlKaZhGdZuj6mLCPTldspwJYrKmeRSsHftQDXf3vdjKjbQro4Ng9lI_3FNyOVJA=s900-c-k-c0x00ffffff-no-rj" group-title="Youtube Dizi",Bir Zamanlar Çukurova
-https://ythls.armelin.one/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/maxresdefault.jpg" group-title="Youtube Dizi",Cennet Mahallesi
-https://ythls.armelin.one/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/maxresdefault.jpg" group-title="Youtube Dizi",Geniş Aile
-https://ythls.armelin.one/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VYAgeUatOo/hq720_live.jpg" group-title="Youtube Dizi",Kardeşlerim Tüm Bölümler
-https://ythls.armelin.one/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/slT7aQuQukE/hq720.jpg" group-title="Youtube Dizi",Kurtlar Vadisi Pusu
-https://ythls.armelin.one/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b27359078a7716e10b1102fa82b4" group-title="Youtube Dizi",Sakarya Fırat
-https://ythls.armelin.one/channel/UCJbc3MgMFKqsCwTdrjWvVzQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCJbc3MgMFKqsCwTdrjWvVzQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/maxresdefault.jpg" group-title="Youtube Dizi",Selena
-https://ythls.armelin.one/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
 
 #EXTINF:-1 tvg-logo="https://1001dizi.net/images2/dizi/arsiv/yeni-gelin.jpg" group-title="Youtube Dizi",Yeni Gelin
-https://ythls.armelin.one/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Youtube Çocuk",Diyanet Çocuk
-https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Whk9MVTpI4/hq720.jpg" group-title="Youtube Çocuk",Kral Şakir
-https://ythls.armelin.one/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Youtube Çocuk",Maşa İle Koca Ayı
-https://ythls.armelin.one/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dzPP0sInBUo/hq720.jpg" group-title="Youtube Çocuk",Niloya
-https://ythls.armelin.one/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Youtube Çocuk",Rafadan Tayfa Tüm Bölümler
-https://ythls.armelin.one/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
