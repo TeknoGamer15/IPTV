@@ -63,7 +63,7 @@ https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=635" group-title="Haber",HALK TV FHD
 https://ythls.armelin.one/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png" group-title="Haber",NTV HD
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png" group-title="Haber",NTV FHD
 https://ythls.armelin.one/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" group-title="Haber",CNN TÜRK HD
@@ -159,6 +159,9 @@ https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Youtube Dizi",Adanalı
 https://ythls.armelin.one/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/Akasya_Duragi.jpg" group-title="Dizi",Akasya Durağı
+https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iS--P4KPEnyQlKaZhGdZuj6mLCPTldspwJYrKmeRSsHftQDXf3vdjKjbQro4Ng9lI_3FNyOVJA=s900-c-k-c0x00ffffff-no-rj" group-title="Youtube Dizi",Bir Zamanlar Çukurova
 https://ythls.armelin.one/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
