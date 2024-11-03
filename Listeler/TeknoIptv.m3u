@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml"
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",TRT 1 FHD
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
@@ -8,11 +8,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
-
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -44,7 +39,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.ytimg.com/vi/-z-P0IXjzHQ/maxresdefault.jpg" group-title="Ulusal",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114" group-title="Ulusal",TV4 HD
+#EXTINF:-1 tvg-id="2899" tvg-logo="https://yt3.googleusercontent.com/sdDYxr5uE-T191ZNNckhWQdY5rEehrkqe1VosCltCwkeFKjjNzygJ7VjvJfpo6Bsr6TjaumEWA=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=106" group-title="Ulusal",TRT KURDİ HD
@@ -69,7 +64,7 @@ https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 https://ythls.armelin.one/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png" group-title="Haber",NTV HD
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+https://ythls.armelin.one/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" group-title="Haber",CNN TÜRK HD
 https://ythls.armelin.one/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
@@ -77,32 +72,35 @@ https://ythls.armelin.one/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Haber",24 HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",TABİİ SPOR FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor FHD
 https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",TABİİ SPOR 1 FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1 FHD
 https://omtfm36b1e2hpragyzd5vwue0.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",TABİİ SPOR 2 FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2 FHD
 https://7rxndpk01f2bvov7twjltxjrd.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",TABİİ SPOR 3 FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3 FHD
 https://aja9qkfqmvb0zghixxrci30rj.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",TABİİ SPOR 4 FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4 FHD
 https://ditvzpcgdznwyfx6nch4hhp69.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",TABİİ SPOR 5 FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5 FHD
 https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",TABİİ SPOR 6 FHD
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6 FHD
 https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT SPOR FHD
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_226.png?v=4" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT SPOR YILDIZ FHD
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_271.png?v=3" group-title="Spor",TRT SPOR YILDIZ FHD
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi4.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
@@ -144,8 +142,26 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=245" group-title="Belgesel",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
+#EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4301" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d42d866ac31658881732" group-title="Sinema",Play 2
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4330" tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
+https://nove.45a43030ce2f37199.click/i/canlimaclar9496.sbs/4011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
+https://ythls.armelin.one/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rMjgoq_tMPE/hq720_live.jpg" group-title="Youtube Sinema",Yeşilçam (Arzu Film)
+https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Youtube Dizi",Adanalı
 https://ythls.armelin.one/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ee9TqU7-N-o/hq720.jpg" group-title="Youtube Dizi",Bir Zamanlar Çukurova
+https://ythls.armelin.one/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/maxresdefault.jpg" group-title="Youtube Dizi",Cennet Mahallesi
 https://ythls.armelin.one/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
@@ -153,14 +169,32 @@ https://ythls.armelin.one/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/maxresdefault.jpg" group-title="Youtube Dizi",Geniş Aile
 https://ythls.armelin.one/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VYAgeUatOo/hq720_live.jpg" group-title="Youtube Dizi",Kardeşlerim Tüm Sezonlar
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VYAgeUatOo/hq720_live.jpg" group-title="Youtube Dizi",Kardeşlerim Tüm Bölümler
 https://ythls.armelin.one/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WzLUV8GwTQXQTG1f2XzcVzfeE-c9yXtUri5IRo8qKJB4wT908CAnxbN8Jygo58Uk46nqGrlk3Xs=s900-c-k-c0x00ffffff-no-rj" group-title="Youtube Dizi",Kurtlar Vadisi Pusu
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/slT7aQuQukE/hq720.jpg" group-title="Youtube Dizi",Kurtlar Vadisi Pusu
 https://ythls.armelin.one/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LrXSGDCnmnQ/hq720.jpg" group-title="Youtube Dizi",Sakarya Fırat
+https://ythls.armelin.one/channel/UCJbc3MgMFKqsCwTdrjWvVzQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/maxresdefault.jpg" group-title="Youtube Dizi",Selena
 https://ythls.armelin.one/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z2SSpfbknj8/maxresdefault.jpg" group-title="Youtube Dizi",Yeni Gelin
 https://ythls.armelin.one/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Youtube Çocuk",Diyanet Çocuk
+https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Whk9MVTpI4/hq720.jpg" group-title="Youtube Çocuk",Kral Şakir
+https://ythls.armelin.one/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Youtube Çocuk",Maşa İle Koca Ayı
+https://ythls.armelin.one/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dzPP0sInBUo/hq720.jpg" group-title="Youtube Çocuk",Niloya
+https://ythls.armelin.one/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Youtube Çocuk",Rafadan Tayfa Tüm Bölümler
+https://ythls.armelin.one/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
