@@ -48,6 +48,9 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=105" group-title="Ulusal",TRT AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://yt3.googleusercontent.com/g6WCk_S5LDjud8dtx8WXvpFzqOC8LFMtE1cM9fYkuKd4QNKn9_gax8dkbJJbhMBmHAzCeqZ6=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",TRT TÜRK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=79" group-title="Haber",A HABER FHD
 https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 
@@ -71,6 +74,9 @@ https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Haber",24 HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100 HD
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor FHD
 https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master_1080p.m3u8
@@ -141,6 +147,9 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/63fdf5a6866ac31b149aa2e0" group-title="Belgesel",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/750x750/cdn/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
+https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
