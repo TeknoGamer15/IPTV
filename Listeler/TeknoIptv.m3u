@@ -6,8 +6,11 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD (YEDEK 1)
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD (YEDEK 2)
+https://hw1.jemtv.com/app/KanalD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
@@ -18,7 +21,7 @@ https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV HD (YEDEK 1)
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD
@@ -30,6 +33,9 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD
 http://stream.tvcdn.net/eglence/a2.m3u8
 
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD (YEDEK 1)
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=507" group-title="Ulusal",TV8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
@@ -39,7 +45,7 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="Ulusal",TEVE2 FHD
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="Ulusal",TEVE2 HD
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="Ulusal",TEVE2 HD (YEDEK 1)
 http://stream.tvcdn.net/eglence/teve2.m3u8
 
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal",BEYAZ TV FHD
@@ -203,7 +209,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/maxresdefault.jpg" group-title="Dizi",Geniş Aile
 https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5VYAgeUatOo/hq720_live.jpg" group-title="Dizi",Kardeşlerim Tüm Bölümler
+#EXTINF:-1 tvg-logo="https://www.tvreklam.com.tr/wp-content/uploads/2021/05/atv-kardeslerim-tv-reklam.jpg" group-title="Dizi",Kardeşlerim Tüm Bölümler
 https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/slT7aQuQukE/hq720.jpg" group-title="Dizi",Kurtlar Vadisi Pusu
