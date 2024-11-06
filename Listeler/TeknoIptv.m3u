@@ -176,7 +176,10 @@ https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4330" tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
-https://nove.45a43030ce2f37199.click/i/canlimaclar9496.sbs/4011/playlist.m3u8
+https://sei.530cbf7521e43e81.click/p/canlimaclar2278.sbs/4011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
+http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
