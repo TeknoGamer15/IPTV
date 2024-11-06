@@ -6,11 +6,20 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
+https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV HD
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
@@ -30,11 +39,17 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="Ulusal",TEVE2 FHD
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="Ulusal",TEVE2 HD
+http://stream.tvcdn.net/eglence/teve2.m3u8
+
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal",BEYAZ TV FHD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Ulusal",KANAL 7 FHD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/750x750/59f19761cfef0b221f7da904" group-title="Ulusal",SHOW MAX HD
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.ytimg.com/vi/-z-P0IXjzHQ/maxresdefault.jpg" group-title="Ulusal",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -50,6 +65,9 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://yt3.googleusercontent.com/g6WCk_S5LDjud8dtx8WXvpFzqOC8LFMtE1cM9fYkuKd4QNKn9_gax8dkbJJbhMBmHAzCeqZ6=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",TRT TÜRK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://www.artidijitalmedya.com/cdn/channels/v1/tvos/logo_265.png?v=3" group-title="Ulusal",TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=79" group-title="Haber",A HABER FHD
 https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
@@ -196,17 +214,26 @@ https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
 #EXTINF:-1 tvg-logo="https://1001dizi.net/images2/dizi/arsiv/yeni-gelin.jpg" group-title="Youtube Dizi",Yeni Gelin
 https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Youtube Çocuk",Diyanet Çocuk
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=350" group-title="Çocuk",TRT ÇOCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=131" group-title="Çocuk",CARTOON NETWORK HD
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+
+#EXTINF:-1 tvg-id="4279" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/64f57b42866ac307e484249e" group-title="Çocuk",CARTOONİTO HD
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Çocuk",Diyanet Çocuk
 https://ythls.kekikakademi.org/youtube/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Whk9MVTpI4/hq720.jpg" group-title="Youtube Çocuk",Kral Şakir
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Whk9MVTpI4/hq720.jpg" group-title="Çocuk",Kral Şakir
 https://ythls.kekikakademi.org/youtube/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Youtube Çocuk",Maşa İle Koca Ayı
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Çocuk",Maşa İle Koca Ayı
 https://ythls.kekikakademi.org/youtube/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dzPP0sInBUo/hq720.jpg" group-title="Youtube Çocuk",Niloya
+#EXTINF:-1 tvg-logo="https://www.herkesduysun.com/static/2024/08/09/niloya-nin-yeni-bolumleri-11-milyon-goruntulenmeyi-gecti-1723212144-133_small.jpg" group-title="Çocuk",Niloya
 https://ythls.kekikakademi.org/youtube/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Youtube Çocuk",Rafadan Tayfa Tüm Bölümler
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Çocuk",Rafadan Tayfa Tüm Bölümler
 https://ythls.kekikakademi.org/youtube/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
