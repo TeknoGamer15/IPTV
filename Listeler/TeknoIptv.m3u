@@ -333,10 +333,6 @@ https://ythls.armelin.one/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Çocuk",Rafadan Tayfa Tüm Bölümler
 https://ythls.armelin.one/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Çocuk",Deneme
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-http://live1pop04.kablowebtv.com/Live/HLS/4203/700.m3u8|X-My-Custom-Header=ASP.NET_SessionId=klzdsxrl5rptypvzcaogh bim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045
-
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://yt3.googleusercontent.com/hXzCF4nqHOq0MpfYdWsEYTBcNQSAwSWZQ5dYOlkMN9EZP9Mv8_LrCFdM-Ol28IjEd-JCupTu=s900-c-k-c0x00ffffff-no-rj" group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
