@@ -267,6 +267,12 @@ https://tre.530cbf7521e43e81.click/i/exxentv/4011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
 http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV
+https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Nostalji Diziler
+https://ythls.kekikakademi.org/youtube/channel/UCREhAMt98siTF4H6iyAam1w.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
