@@ -262,7 +262,7 @@ https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4330" tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tre.530cbf7521e43e81.click/i/exxentv/4011/playlist.m3u8
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.530cbf7521e43e81.click/i/exxentv/4011/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
 http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
@@ -332,3 +332,34 @@ https://ythls.armelin.one/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Çocuk",Rafadan Tayfa Tüm Bölümler
 https://ythls.armelin.one/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Çocuk",Deneme
+http://live1pop04.kablowebtv.com/Live/HLS/4203/700.m3u8|X-My-Custom-Header=ASP.NET_SessionId=klzdsxrl5rptypvzcaogh bim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://yt3.googleusercontent.com/hXzCF4nqHOq0MpfYdWsEYTBcNQSAwSWZQ5dYOlkMN9EZP9Mv8_LrCFdM-Ol28IjEd-JCupTu=s900-c-k-c0x00ffffff-no-rj" group-title="Müzik",TRT Müzik HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Müzik",Kral Pop HD
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=124" group-title="Müzik",Dream Türk HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" group-title="Müzik",Nr1 Türk HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://gbzottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20171127/001300/XTV100000715/0bc8bcb8-4f3b-41ee-ac06-d5ffb5e2f844.png" group-title="Müzik",Nr1 Damar HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=862" group-title="Müzik",PowerTürk HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png?v=4" group-title="Müzik",PowerTürk Akustik HD
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png?v=4" group-title="Müzik",PowerTürk Taptaze HD
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+
