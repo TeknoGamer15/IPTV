@@ -136,9 +136,19 @@ https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsports-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-427b334edfe38181.workers.dev/live/beinsports-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -188,9 +198,19 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -201,6 +221,11 @@ https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a84866ac318108e1f6f" group-title="Spor",EUROSPORT 2 HD
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wimage.exxen.com/img/exxen-logo.png" group-title="Spor",EXXEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://uno.53bcc5ec13d72fd5.click/p/f2XX9QypRAJk2xigZd4/4011/a.cf-worker-bdc7813512eed06f.workers.dev/chunklist_hd.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_226.png?v=4" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
@@ -263,6 +288,21 @@ https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4330" tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.530cbf7521e43e81.click/i/exxentv/4011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20TURK.png" group-title="Sinema",Movie Smart Türk HD
+https://lives.anystreamrectv3.live/live/mvturk.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="Sinema",Bein Movies Family HD
+https://lives.anystreamrectv3.live/live/bsfamily.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="Sinema",Bein Movies Premiere HD
+https://lives.anystreamrectv3.live/live/bspremier1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="Sinema",Bein Movies Stars HD
+https://lives.anystreamrectv3.live/live/bsstars.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema",Bein Movies Türk HD
+https://lives.anystreamrectv3.live/live/bsturk.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
 http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
