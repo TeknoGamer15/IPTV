@@ -13,7 +13,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 https://hw1.jemtv.com/app/KanalD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV FHD
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=JimkldwSRhpAFMkdQp3z5Q&e=1731491346&ppid=837c030a9cc0a7c1c7147a2d574ad1dc&gdpr=0
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1731913872&st=4CRz14bu3ShKNzg5d_GCZg&sid=6x24mueuyryy&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
