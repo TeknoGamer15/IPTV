@@ -141,6 +141,10 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsports-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/601/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
@@ -150,25 +154,53 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-427b334edfe38181.workers.dev/live/beinsports-2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/602/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/603/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",Bein Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",Bein Sport 4 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/604/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",Bein Sport 5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",Bein Sport 5 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/705/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",Bein Sport Max 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",Bein Sport Max 1 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/805/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",Bein Sport Max 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",Bein Sport Max 2 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/806/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",Bein Sport Max 2 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/806/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -190,9 +222,17 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart1/102/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/102/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart2/104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -203,6 +243,10 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/3450/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8
@@ -211,6 +255,10 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 HD (YEDEK 2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sette.b737116c7e98436f.click/i/kopruluu55.github.io/3451/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
