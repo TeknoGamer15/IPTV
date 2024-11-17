@@ -249,7 +249,7 @@ https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL HD
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="Belgesel",İNVESTİGATİON DİSCOVERY HD
+  #EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="Belgesel",DİSCOVERY ID HD
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi4.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
