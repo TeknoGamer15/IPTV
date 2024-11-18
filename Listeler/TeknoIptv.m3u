@@ -154,6 +154,11 @@ https://alpha.cf-worker-427b334edfe38181.workers.dev/live/beinsports-2/playlist.
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsports-3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",Bein Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
@@ -166,6 +171,11 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",Bein Sport Max 1 HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsportsmax-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",Bein Sport Max 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
@@ -173,6 +183,11 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu1/606/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1 HD (YEDEK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tivibuspor-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -236,35 +251,35 @@ https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
 https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi4.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi5.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://dizi4.life/
+#EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8?live=true
 
 #EXTINF:-1 tvg-id="beINIZ.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-iz-logo.png" group-title="Belgesel",BEİN İZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://dizi4.life/
+#EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL HD
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
 
-  #EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="Belgesel",DİSCOVERY ID HD
+#EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="Belgesel",DİSCOVERY ID HD
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi4.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
+#EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi5.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://dizi4.life/
+#EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8?live=true
 
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://dizi4.life/assets/img/uploads/5489068490539302.png" group-title="Belgesel",NATİONAL GEOGRAPHİC HD
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://dizi5.life/assets/img/uploads/5489068490539302.png" group-title="Belgesel",NATİONAL GEOGRAPHİC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://dizi4.life/
+#EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/natgeo/playlist.m3u8?live=true
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://dizi4.life/assets/img/uploads/84567458748355345.png" group-title="Belgesel",NATİONAL GEOGRAPHİC WİLD HD
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://dizi5.life/assets/img/uploads/84567458748355345.png" group-title="Belgesel",NATİONAL GEOGRAPHİC WİLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://dizi4.life/
+#EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=194" group-title="Belgesel",TRT BELGESEL HD
@@ -361,9 +376,6 @@ https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Çocuk",Diyanet Çocuk
 https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Whk9MVTpI4/hq720.jpg" group-title="Çocuk",Kral Şakir
-https://ythls.armelin.one/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Çocuk",Maşa İle Koca Ayı
 https://ythls.armelin.one/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
 
@@ -400,3 +412,8 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltu
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Film Dizi Deneme",Bizim İçin Şampiyon
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1658" group-title="Film Dizi Deneme",Dokuz Oğuz 1.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Dokuz-Oguz&episode=1&.m3u8
