@@ -402,3 +402,6 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Film Dizi Deneme",Bizim İçin Şampiyon
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="TV Deneme",Sinema Yerli 2
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/uOWGeH_vP7WSGs_rI0YBfVvV7GfC7seAJmpWpiYHzgwBNGMUCr9g-EnLK90y-31ubimwI_DaUgFFBbN6y5gt6nwGmRSyNSKH9A2kwSpumW3XF9_fbQtECRoHFTZ9ac_Ik4lLqTiUq0O42ztusx99oPslz2eL4V4S_9sShVIdtQI/hls/index.m3u8
