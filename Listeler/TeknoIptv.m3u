@@ -108,20 +108,44 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor FHD
 https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor (YEDEK)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi6/4106/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1 FHD
 https://omtfm36b1e2hpragyzd5vwue0.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1 (YEDEK)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2 FHD
 https://7rxndpk01f2bvov7twjltxjrd.medya.trt.com.tr/master_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2 (YEDEK)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi2/4102/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3 FHD
 https://aja9qkfqmvb0zghixxrci30rj.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3 (YEDEK)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi3/4103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4 FHD
 https://ditvzpcgdznwyfx6nch4hhp69.medya.trt.com.tr/master_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4 (YEDEK)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi4/4104/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5 FHD
 https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5 (YEDEK)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi5/4105/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6 FHD
 https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
@@ -233,8 +257,8 @@ https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://wimage.exxen.com/img/exxen-logo.png" group-title="Spor",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
-https://uno.53bcc5ec13d72fd5.click/p/f2XX9QypRAJk2xigZd4/4011/a.cf-worker-bdc7813512eed06f.workers.dev/chunklist_hd.m3u8
+#EXTVLCOPT:http-referrer=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_226.png?v=4" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
@@ -334,8 +358,14 @@ https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/maxresdefault.jpg" group-title="Dizi",Cennet Mahallesi
 https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
+#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="Dizi",Ezel
+https://ythls.kekikakademi.org/youtube/channel/UC82UK_P4DuDZ42Q0SHcey1w.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/maxresdefault.jpg" group-title="Dizi",Geniş Aile
 https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/65b358632a7f777ba0f5102e.jpg" group-title="Dizi",İnci Taneleri
+https://ythls.kekikakademi.org/youtube/channel/UCUxSoTMNflf9TAlZbml7XMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvreklam.com.tr/wp-content/uploads/2021/05/atv-kardeslerim-tv-reklam.jpg" group-title="Dizi",Kardeşlerim Tüm Bölümler
 https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
@@ -349,6 +379,9 @@ https://ythls.kekikakademi.org/youtube/channel/UCJbc3MgMFKqsCwTdrjWvVzQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pjSDQwlyndY/maxresdefault.jpg" group-title="Dizi",Selena
 https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/02H6irpwLNg/hq720.jpg" group-title="Dizi",Sihirli Annem
+https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/yeni-gelin.jpg?v=1706513769" group-title="Dizi",Yeni Gelin
 https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
 
@@ -358,11 +391,11 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=131" group-title="Çocuk",CARTOON NETWORK HD
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:-1 tvg-id="4279" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/64f57b42866ac307e484249e" group-title="Çocuk",CARTOONİTO HD
-https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Çocuk",Diyanet Çocuk
 https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cR2pAn_qhqQ/hq720.jpg" group-title="Çocuk",Düşyeri Pepee
+https://ythls.armelin.one/channel/UC4fmBMzf7iWyFx7ysCCLqDA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Çocuk",Maşa İle Koca Ayı
 https://ythls.armelin.one/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
@@ -372,6 +405,9 @@ https://ythls.armelin.one/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IiHHz6Eq70o/hq720.jpg" group-title="Çocuk",Rafadan Tayfa Tüm Bölümler
 https://ythls.armelin.one/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1Yy5zZCnCB4/hq720.jpg" group-title="Çocuk",Tom Ve Jerry (Cartoonito)
+https://ythls.armelin.one/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://yt3.googleusercontent.com/hXzCF4nqHOq0MpfYdWsEYTBcNQSAwSWZQ5dYOlkMN9EZP9Mv8_LrCFdM-Ol28IjEd-JCupTu=s900-c-k-c0x00ffffff-no-rj" group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -399,9 +435,3 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltu
 
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Film Dizi Deneme",Bizim İçin Şampiyon
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="TV Deneme",Sinema Yerli 2
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/uOWGeH_vP7WSGs_rI0YBfVvV7GfC7seAJmpWpiYHzgwBNGMUCr9g-EnLK90y-31ubimwI_DaUgFFBbN6y5gt6nwGmRSyNSKH9A2kwSpumW3XF9_fbQtECRoHFTZ9ac_Ik4lLqTiUq0O42ztusx99oPslz2eL4V4S_9sShVIdtQI/hls/index.m3u8
