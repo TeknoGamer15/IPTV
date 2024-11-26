@@ -411,7 +411,3 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltu
 
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
-
-#EXTINF:0,SİNEMA YERLİ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-http://live1pop01.kablowebtv.com/Live/HLS/4203/2500.m3u8| cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim;emwId=51093b0c-e1a6-4684-81dc-16af380240e1;eSessionId=35012045
