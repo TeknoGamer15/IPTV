@@ -28,3 +28,73 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_aff
 #EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/19-06/24/cukur_10_bolum_mobil_1920x1080.jpg" group-title="Çukur",Çukur 10.Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_5e2eb714-c7b6-4b8e-9548-28d22572f30a&SecretKey=NtvApiSecret2014*&.m3u8
 
+#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/1920x1080/19-06/24/cukur_11_bolum_mobil_1920x1080.jpg" group-title="Çukur",Çukur 11.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_2b7abdbe-cc19-4a23-9fdf-b5a167822bf7&SecretKey=NtvApiSecret2014*&.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/cukur_12_bolum_mobil_1920x1080-1.jpg" group-title="Çukur",Çukur 12.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_22d34565-b556-4cc5-b8bf-6a56ef445a72&SecretKey=NtvApiSecret2014*&.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/cukur_13_bolum_mobil_1920x1080-1.jpg" group-title="Çukur",Çukur 13.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_4efd3f98-6e84-4ce7-acca-4b6fc5e2aa6c&SecretKey=NtvApiSecret2014*&.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DtWeoQ_-YP4/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 1.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=1&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PGNUWMPgG3Y/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 2.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=2&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lzKqcd0cpl0/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 3.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=3&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9pgBhwlQUTI/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 4.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=4&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8xnhhefV73k/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 5.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=5&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KoZV8FzSw2E/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 6.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=6&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/trsGvK8dR5Q/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 7.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=7&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wu0ZVQjG1V4/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 8.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=8&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-NIMMFPgr0k/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 9.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=9&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VG_cnY_1R50/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 10.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=10&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IMNL2cQxENo/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 11.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=11&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zmEn8MOLIX4/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 12.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=12&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wQgTZjiBvsc/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 13.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=13&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/99Dpu53FCY8/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 14.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=14&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N29TVOr6lhQ/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 15.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=15&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_m_2uPE9Iw/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 16.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=16&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j_9MR8zr0uY/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 17.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=17&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Bi32yo_lyWc/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 18.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=18&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T-5fD30CxIg/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 19.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=19&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-lgdJ39Imto/maxresdefault.jpg" group-title="Savaşçı",Savaşçı 20.Bölüm
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Savasci&episode=20&.m3u8
