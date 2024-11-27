@@ -328,6 +328,9 @@ https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nDE_M4fSO6Y/maxresdefault.jpg" group-title="Youtube Sinema",En Sevilen Kemal Sunal Filmleri
+https://ythls.kekikakademi.org/youtube/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rMjgoq_tMPE/hq720_live.jpg" group-title="Youtube Sinema",Yeşilçam (Arzu Film)
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
@@ -339,6 +342,9 @@ https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/maxresdefault.jpg" group-title="Youtube Dizi",Cennet Mahallesi
 https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yecjtIOaLUU/maxresdefault.jpg" group-title="Youtube Dizi",Çiçek Taksi
+https://ythls.kekikakademi.org/youtube/channel/UCYWwhdgFmZR0uWwaS-GURyg.m3u8
 
 #EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="Youtube Dizi",Ezel
 https://ythls.kekikakademi.org/youtube/channel/UC82UK_P4DuDZ42Q0SHcey1w.m3u8
