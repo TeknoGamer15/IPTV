@@ -7,15 +7,12 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD (YEDEK 1)
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD (YEDEK 2)
 https://hw1.jemtv.com/app/KanalD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD (YEDEK 1)
 https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
@@ -89,6 +86,9 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://im.haberturk.com/l/2023/01/24/ver1674582087/3559082/jpg/640x360" group-title="Haber",HABERTÜRK FHD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://im.haberturk.com/l/2023/01/24/ver1674582087/3559082/jpg/640x360" group-title="Haber",HABERTÜRK FHD (DVR)
+https://mnorigin-cmn-5.mncdn.com/haberturk_testt_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="4294" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/63ff0d17866ac3189cf375d9" group-title="Haber",SÖZCÜ TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
@@ -251,6 +251,9 @@ https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
 https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="Spor",HT SPOR FHD
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
 #EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi5.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://dizi5.life/
@@ -315,6 +318,14 @@ https://lives.anystreamrectv3.live/live/bsstars.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema",Bein Movies Türk HD
 https://lives.anystreamrectv3.live/live/bsturk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png" group-title="Sinema",Bein Box Office 1 HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png" group-title="Sinema",Bein Box Office 2 HD
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
+https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=168" group-title="Sinema",Sinema TV
 https://lives.anystreamrectv3.live/live/sinema.m3u8
@@ -406,6 +417,9 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=131" group-title="Çocuk",CARTOON NETWORK HD
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/gominika.png" group-title="Çocuk",MİNİKA GO HD
+https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_VhYSeSiSWs/hq720.jpg" group-title="Çocuk",Diyanet Çocuk
 https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 
@@ -451,5 +465,5 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltu
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Deneme",Dizi Deneme
+#EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
