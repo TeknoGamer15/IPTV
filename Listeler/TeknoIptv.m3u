@@ -319,14 +319,6 @@ https://lives.anystreamrectv3.live/live/bsstars.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema",Bein Movies Türk HD
 https://lives.anystreamrectv3.live/live/bsturk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png" group-title="Sinema",Bein Box Office 1 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
-https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png" group-title="Sinema",Bein Box Office 2 HD
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz
-https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=168" group-title="Sinema",Sinema TV
 https://lives.anystreamrectv3.live/live/sinema.m3u8
 
