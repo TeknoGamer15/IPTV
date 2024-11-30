@@ -30,11 +30,17 @@ http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 1)
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=W05ZGQJiwTcKGy2s4IDYig&e=1733005622
+
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 2)
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD
-http://stream.tvcdn.net/eglence/a2.m3u8
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD (YEDEK 1)
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=507" group-title="Ulusal",TV8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
