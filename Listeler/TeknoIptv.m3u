@@ -60,6 +60,9 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/750x750/59f19761cfef0b221f7da904" group-title="Ulusal",SHOW MAX HD
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/750x750/59f19761cfef0b221f7da904" group-title="Ulusal",SHOW MAX HD (Tekno)
+https://raw.githubusercontent.com/TeknoGamer15/IPTV/main/Listeler/Kanallar/showmax.m3u8
+
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.ytimg.com/vi/-z-P0IXjzHQ/maxresdefault.jpg" group-title="Ulusal",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
