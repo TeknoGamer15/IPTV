@@ -468,3 +468,6 @@ https://yayin2.canlitv.fun/livetv/xezertv.stream/master.m3u8
 
 #EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+
+#EXTINF:-1 group-title="Deneme",Deneme
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://cdn.ssportplus.com/66/3165/h7Tj1M4nufKT/h7Tj1M4nufKT.mpd
