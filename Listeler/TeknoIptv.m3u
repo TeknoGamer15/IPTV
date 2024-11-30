@@ -97,7 +97,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/ntv.png" group-title="Haber",NTV FHD
-https://raw.githubusercontent.com/TeknoGamer15/IPTV/blob/main/Listeler/Kanallar/ntv.m3u8
+https://raw.githubusercontent.com/TeknoGamer15/IPTV/main/Listeler/Kanallar/ntv.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=455" group-title="Haber",CNN TÜRK HD
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
