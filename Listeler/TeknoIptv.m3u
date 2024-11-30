@@ -297,6 +297,9 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/750x750/cdn/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
 https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="Belgesel",Yaban TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 
