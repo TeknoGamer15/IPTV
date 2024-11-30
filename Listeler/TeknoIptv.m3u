@@ -111,6 +111,9 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100 HD
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=646" group-title="Haber",TH TÜRKHABER
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor FHD
 https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master_1080p.m3u8
 
