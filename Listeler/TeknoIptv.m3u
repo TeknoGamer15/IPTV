@@ -325,6 +325,12 @@ https://lives.anystreamrectv3.live/live/bsstars.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema",Bein Movies Türk HD
 https://lives.anystreamrectv3.live/live/bsturk.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="Sinema",Bein Series 1 HD
+https://lives.anystreamrectv3.live/live/box1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="Sinema",Bein Series 3 HD
+https://lives.anystreamrectv3.live/live/box2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=168" group-title="Sinema",Sinema TV
 https://lives.anystreamrectv3.live/live/sinema.m3u8
 
@@ -357,6 +363,12 @@ https://lives.anystreamrectv3.live/live/sinemayerli.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=585" group-title="Sinema",Sinema Yerli 2
 https://lives.anystreamrectv3.live/live/sinemayerli2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=520" group-title="Sinema",FX HD
+https://lives.anystreamrectv3.live/live/fx.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=659" group-title="Sinema",Epic Drama
+https://lives.anystreamrectv3.live/live/epicdrama.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
 http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
