@@ -162,3 +162,18 @@ https://uzunmuhalefet.serv00.net/nowtv.php?serie=Gaddar&episode=19&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LWc5aYOx1jM/maxresdefault.jpg" group-title="Gaddar",Gaddar 20.Bölüm (FİNAL)
 https://uzunmuhalefet.serv00.net/nowtv.php?serie=Gaddar&episode=20&.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/1920x1080/6731ca6df072a7bd36dcc19a.jpg" group-title="Uzak Şehir",Uzak Şehir 1.Bölüm
+https://kanaldvod.duhnet.tv/hls/f/sn/us_1_blms/us_1_blms.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/1920x1080/673b4152f072a7bd36dccdff.jpg" group-title="Uzak Şehir",Uzak Şehir 2.Bölüm
+https://kanaldvod.duhnet.tv/hls/m/j7/us_2_bolum/us_2_bolum.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/1920x1080/6744883e066a80612a9e736d.jpg" group-title="Uzak Şehir",Uzak Şehir 3.Bölüm
+https://kanaldvod.duhnet.tv/hls/z/Au/us_3_blm_rev/us_3_blm_rev.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/1920x1080/674dbbcbf072a7bd36dce35c.jpg" group-title="Uzak Şehir",Uzak Şehir 4.Bölüm
+https://kanaldvod.duhnet.tv/hls/e/qG/us_4_bolum/us_4_bolum.smil/chunklist_b2400000.m3u8
