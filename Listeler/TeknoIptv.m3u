@@ -24,7 +24,10 @@ http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV FHD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/star.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD (YEDEK 1)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV FHD (YEDEK 1)
+https://dygvideo.dygdigital.com/live/hls/startv4puhu
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD (YEDEK 2)
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD
