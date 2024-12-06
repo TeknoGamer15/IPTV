@@ -136,28 +136,40 @@ https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
+https://it-cdn-1.varsportscdn1.lol/600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK 3)
+https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD (YEDEK)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD (YEDEK 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-427b334edfe38181.workers.dev/live/beinsports-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD (YEDEK 2)
+https://it-cdn-1.varsportscdn1.lol/602/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD (YEDEK)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD (YEDEK 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals910.xyz/
 https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/beinsports-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD (YEDEK 2)
+https://it-cdn-1.varsportscdn1.lol/603/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",Bein Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -231,11 +243,11 @@ https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/s-sport-2/playlist.m3u
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/nba/112/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a22866ac318108e1f6d" group-title="Spor",EUROSPORT 1 HD
-https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a22866ac318108e1f6d" group-title="Spor",EUROSPORT 1 FHD
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist_b6628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a84866ac318108e1f6f" group-title="Spor",EUROSPORT 2 HD
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a84866ac318108e1f6f" group-title="Spor",EUROSPORT 2 FHD
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist_b6628000.m3u8
 
 #EXTINF:-1 tvg-logo="https://wimage.exxen.com/img/exxen-logo.png" group-title="Spor",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -267,8 +279,8 @@ https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL HD
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL FHD
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4128000.m3u8
 
 #EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi5.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
@@ -298,86 +310,17 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="Belgesel",Yaban TV
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w2028368517.m3u8
 
-#EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="4301" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d42d866ac31658881732" group-title="Sinema",Play 2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4301" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d42d866ac31658881732" group-title="Sinema",Play 2 FHD
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="4330" tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.530cbf7521e43e81.click/i/exxentv/4011/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20TURK.png" group-title="Sinema",Movie Smart Türk HD
-https://lives.anystreamrectv3.live/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="Sinema",Bein Movies Family HD
-https://lives.anystreamrectv3.live/live/bsfamily.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="Sinema",Bein Movies Premiere HD
-https://lives.anystreamrectv3.live/live/bspremier1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="Sinema",Bein Movies Stars HD
-https://lives.anystreamrectv3.live/live/bsstars.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema",Bein Movies Türk HD
-https://lives.anystreamrectv3.live/live/bsturk.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="Sinema",Bein Series 1 HD
-https://lives.anystreamrectv3.live/live/box1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="Sinema",Bein Series 3 HD
-https://lives.anystreamrectv3.live/live/box2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=168" group-title="Sinema",Sinema TV
-https://lives.anystreamrectv3.live/live/sinema.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=169" group-title="Sinema",Sinema 2
-https://lives.anystreamrectv3.live/live/sinema2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=171" group-title="Sinema",Sinema 1001
-https://lives.anystreamrectv3.live/live/sinema1001.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=583" group-title="Sinema",Sinema 1002
-https://lives.anystreamrectv3.live/live/sinema1002.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="Sinema",Sinema Aksiyon
-https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="Sinema",Sinema Aksiyon 2
-https://lives.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=170" group-title="Sinema",Sinema Aile
-https://lives.anystreamrectv3.live/live/sinemaaile.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=577" group-title="Sinema",Sinema Aile 2
-https://lives.anystreamrectv3.live/live/sinemaaile2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=172" group-title="Sinema",Sinema Komedi
-https://lives.anystreamrectv3.live/live/sinemakomedi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" group-title="Sinema",Sinema Yerli
-https://lives.anystreamrectv3.live/live/sinemayerli.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=585" group-title="Sinema",Sinema Yerli 2
-https://lives.anystreamrectv3.live/live/sinemayerli2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=520" group-title="Sinema",FX HD
-https://lives.anystreamrectv3.live/live/fx.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=659" group-title="Sinema",Epic Drama
-https://lives.anystreamrectv3.live/live/epicdrama.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png" group-title="Premium Sinema",Max Türk HD
-https://lives.anystreamrectv3.live/live/yer1.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png" group-title="Premium Sinema",Fiberbox Türk HD
-https://lives.anystreamrectv3.live/live/yer2.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png" group-title="Premium Sinema",Magicbox Türk HD
-https://lives.anystreamrectv3.live/live/yer4.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
 http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
