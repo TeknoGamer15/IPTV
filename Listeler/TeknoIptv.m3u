@@ -287,20 +287,11 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.530cbf7521e43
 #EXTINF:-1 tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Sinema",Tabii TV
 https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png?1522650125" group-title="Sinema",Uluslar TV
-http://palatv34.ozelip.com:22372/uluslar/uluslar/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV
 https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nDE_M4fSO6Y/maxresdefault.jpg" group-title="Youtube Sinema",En Sevilen Kemal Sunal Filmleri
-https://ythls.kekikakademi.org/youtube/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rMjgoq_tMPE/hq720_live.jpg" group-title="Youtube Sinema",Yeşilçam (Arzu Film)
-https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2dhJQvBZk8/hq720_live.jpg" group-title="Youtube Dizi",Adanalı
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
@@ -394,6 +385,3 @@ https://hw2.jemtv.com/app/aztv1/playlist.m3u8
 
 #EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
-
-#EXTINF:-1 group-title="Deneme",TV Deneme
-https://dygvideo.dygdigital.com/live/hls/startv4puhu
