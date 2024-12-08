@@ -81,7 +81,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://yt3.googleusercontent.com/g6WCk_S5LDjud8dtx8WXvpFzqOC8LFMtE1cM9fYkuKd4QNKn9_gax8dkbJJbhMBmHAzCeqZ6=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",TRT TÜRK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://www.artidijitalmedya.com/cdn/channels/v1/tvos/logo_265.png?v=3" group-title="Ulusal",TRT 2 HD
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/23848_1-0-465-262.jpeg" group-title="Ulusal",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=79" group-title="Haber",A HABER FHD
@@ -275,7 +275,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/63fdf5a6866ac31b149aa2e0" group-title="Belgesel",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/750x750/cdn/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/750x750/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
 https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
