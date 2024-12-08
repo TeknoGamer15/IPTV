@@ -441,3 +441,8 @@ https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fda
 
 #EXTINF:-1 group-title="Deneme",TV Deneme
 https://dygvideo.dygdigital.com/live/hls/startv4puhu
+
+#EXTINF:-1 group-title="Deneme",TV Deneme 2
+http://live1pop01.kablowebtv.com/Live/HLS/4203/2500.m3u8
+# User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+# Cookie: ASP.NET_SessionId=klzdsxrl5rptypvzcaogh bim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045
