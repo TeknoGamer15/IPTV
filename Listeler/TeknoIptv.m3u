@@ -138,37 +138,37 @@ https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6 FHD
 https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK 1)
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 1)
 https://it-cdn-1.varsportscdn1.lol/600/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",Bein Sport 2 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",Bein Sport 3 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-3-buyuk-1.png" group-title="Spor",Bein Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",Bein Sport 4 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png" group-title="Spor",Bein Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",Bein Sport 5 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="Spor",Bein Sport 5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",Bein Sport Max 1 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="Spor",Bein Sport Max 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",Bein Sport Max 2 HD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-2-hd-buyuk.png" group-title="Spor",Bein Sport Max 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
 
@@ -192,7 +192,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart1/102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2 HD
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/a/Bl/14585/Thumbnail.png" group-title="Spor",Spor Smart 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart2/104/playlist.m3u8
 
@@ -222,10 +222,10 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-logo="https://wimage.exxen.com/img/exxen-logo.png" group-title="Spor",EXXEN (YEDEK)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_226.png?v=4" group-title="Spor",TRT SPOR FHD
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/40480_0-0-465-261.jpeg" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_271.png?v=3" group-title="Spor",TRT SPOR YILDIZ FHD
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/23855_1-0-465-262.jpeg" group-title="Spor",TRT SPOR YILDIZ FHD
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
@@ -234,7 +234,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dizi5.life/assets/img/uploads/83459834958349543.png" group-title="Belgesel",BBC EARTH HD
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
 #EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
@@ -356,11 +356,11 @@ https://ythls.armelin.one/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://yt3.googleusercontent.com/hXzCF4nqHOq0MpfYdWsEYTBcNQSAwSWZQ5dYOlkMN9EZP9Mv8_LrCFdM-Ol28IjEd-JCupTu=s900-c-k-c0x00ffffff-no-rj" group-title="Müzik",TRT Müzik HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Müzik",Kral Pop HD
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Müzik",Kral Pop FHD
+https://dygvideo.dygdigital.com/live/hls/kralpophd
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Müzik",Kral Pop HD
-https://dygvideo.dygdigital.com/live/hls/kralpophd
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=124" group-title="Müzik",Dream Türk HD
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
