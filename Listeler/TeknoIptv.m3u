@@ -359,6 +359,9 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Müzik",Kral Pop HD
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Müzik",Kral Pop HD
+https://dygvideo.dygdigital.com/live/hls/kralpophd
+
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=124" group-title="Müzik",Dream Türk HD
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
