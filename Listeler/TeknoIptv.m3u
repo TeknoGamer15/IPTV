@@ -148,10 +148,6 @@ https://it-cdn-1.varsportscdn1.lol/600/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F) AppleWebKit/537.36 (KHTML, like Gecko) Soul/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/601/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
@@ -213,10 +209,10 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/nba/112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a22866ac318108e1f6d" group-title="Spor",EUROSPORT 1 FHD
-https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist_b6628000.m3u8
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist_b7328000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a84866ac318108e1f6f" group-title="Spor",EUROSPORT 2 FHD
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist_b6628000.m3u8
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist_b7328000.m3u8
 
 #EXTINF:-1 tvg-logo="https://wimage.exxen.com/img/exxen-logo.png" group-title="Spor",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -233,7 +229,7 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
-https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
@@ -249,7 +245,7 @@ https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
 https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL FHD
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4128000.m3u8
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4628000.m3u8
 
 #EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dizi5.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="Belgesel",HİSTORY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
@@ -279,10 +275,10 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b3128000.m3u8
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b7128000.m3u8
 
 #EXTINF:-1 tvg-id="4301" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d42d866ac31658881732" group-title="Sinema",Play 2 FHD
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/chunklist_b3128000.m3u8
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/chunklist_b7128000.m3u8
 
 #EXTINF:-1 tvg-id="4330" tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
