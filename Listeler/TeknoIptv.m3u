@@ -282,7 +282,7 @@ https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/chunklist_b7128000.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/towky_WWBG4/maxresdefault.jpg" group-title="Sinema",Exxen TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://uno.53bcc5ec13d72fd5.click/p/AXeBdayThUwEb1LccU/4011/a.cf-worker-bdc7813512eed06f.workers.dev/chunklist_hd.m3u8
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://uno.53bcc5ec13d72fd5.click/p/AXeBdayThUwEb1LccU/4011/a.cf-worker-bdc7813512eed06f.workers.dev/chunklist_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Sinema",Tabii TV
 https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
