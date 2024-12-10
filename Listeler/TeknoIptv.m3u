@@ -388,6 +388,3 @@ https://hw2.jemtv.com/app/aztv1/playlist.m3u8
 
 #EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KpGNSx5FfvI/mqdefault.jpg" group-title="Çocuk",Pepee TV
-https://ythls.armelin.one/channel/UC4fmBMzf7iWyFx7ysCCLqDA.m3u8
