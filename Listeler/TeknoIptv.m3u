@@ -274,6 +274,12 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/750x750/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
 https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/F2/11913/Thumbnail.png" group-title="Dizi Smart Max FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2750&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/F2/11913/Thumbnail.png" group-title="Dizi Smart Max HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=496000&extension=m3u8
+
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b7128000.m3u8
 
