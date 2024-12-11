@@ -383,8 +383,14 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltu
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FM3eAgGVYfKGv6RBbvqTXychGZQupGZmYFtl8Td0SIgxtw7ZB8tA-2NHheNiNqz1Q08u54aK=s900-c-k-c0x00ffffff-no-rj" group-title="Müzik",SüperTürk Müzik 
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AaXNR_YBsOpxozV2cxQo_pNqoJcnxGPigje3qIQJp5Qd3GBwu2ENuZ5Y5jRlJC5SUH7xMefPdg=s900-c-k-c0x00ffffff-no-rj" group-title="Azerbaycan",AZ TV HD
 https://hw2.jemtv.com/app/aztv1/playlist.m3u8
 
 #EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+
+#EXTINF:-1 group-title="Deneme",TV Deneme
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=268133&extension=m3u8
