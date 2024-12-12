@@ -138,6 +138,9 @@ https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6 FHD
 https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 FHD (1080)
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=551702&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
@@ -148,21 +151,36 @@ https://it-cdn-1.varsportscdn1.lol/600/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 3)
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
+
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD (YEDEK 1)
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-2-turkey/159
 
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-3-buyuk-1.png" group-title="Spor",Bein Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-3-buyuk-1.png" group-title="Spor",Bein Sport 3 HD (YEDEK 1)
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-3-turkey/160
+
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png" group-title="Spor",Bein Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png" group-title="Spor",Bein Sport 4 HD (YEDEK 1)
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-4-turkey/161
+
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="Spor",Bein Sport 5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="Spor",Bein Sport 5 HD (YEDEK 1)
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-5-turkey/212
 
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="Spor",Bein Sport Max 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -262,6 +280,87 @@ https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/F2/11913/Thumbnail.png" group-title="Sinema",Dizi Smart Max FHD
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2750&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/d/9U/12174/Thumbnail.png" group-title="Sinema",Dizi Smart Premium FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2751&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/y/L4/13864/Thumbnail.png" group-title="Sinema",Movie Smart Classic FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2745&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/e/ZI/13863/Thumbnail.png" group-title="Sinema",Movie Smart Türk FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2744&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/T/QU/22894/Thumbnail.png" group-title="Sinema",Sinema TV FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2773&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/Y/3N/22904/Thumbnail.png" group-title="Sinema",Sinema 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2774&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/g/6y/22901/Thumbnail.png" group-title="Sinema",Sinema 1001 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2786&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/C/XZ/22902/Thumbnail.png" group-title="Sinema",Sinema 1002 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2788&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/-/EU/22897/Thumbnail.png" group-title="Sinema",Sinema Aile FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2777&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/e/Mq/22898/Thumbnail.png" group-title="Sinema",Sinema Aile 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2779&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/t/tD/22896/Thumbnail.png" group-title="Sinema",Sinema Aksiyon FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2780&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/M/RG/22895/Thumbnail.png" group-title="Sinema",Sinema Aksiyon 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2781&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/w/9a/22899/Thumbnail.png" group-title="Sinema",Sinema Komedi FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2782&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/o/oG/22900/Thumbnail.png" group-title="Sinema",Sinema Komedi 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2784&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" group-title="Sinema",Sinema Yerli FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=33391&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=585" group-title="Sinema",Sinema Yerli 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=495996&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2756&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="Sinema",Bein Movies Family FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2760&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="Sinema",Bein Movies Premiere FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2762&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-2-hd-buyuk.png" group-title="Sinema",Bein Movies Premiere 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2764&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema",Bein Movies Türk FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494632&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="Sinema",Bein Series 1 HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=495938&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png" group-title="Sinema",Bein Series 2 FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2766&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="Sinema",Bein Series 3 HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2769&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png" group-title="Sinema",Bein Series 4 HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=495939&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png" group-title="Sinema",Bein Box Office 1 HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494629&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-2-logo.png" group-title="Sinema",Bein Box Office 2 HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494628&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Bein Box Office 3 HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494627&extension=m3u8
+
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b7128000.m3u8
 
@@ -317,6 +416,27 @@ https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
 #EXTINF:-1 tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/yeni-gelin.jpg?v=1706513769" group-title="Youtube Dizi",Yeni Gelin
 https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
 
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/_/-b/11912/Thumbnail.png" group-title="Çocuk",ÇOCUK SMART FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481406&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=278" group-title="Çocuk",BABY TV FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481409&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/n/ct/22903/Thumbnail.png" group-title="Çocuk",DİSNEY JR FHD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481407&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/nickelodeon-hd-buyuk.png" group-title="Çocuk",NİCKELODEON HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481400&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/nick-jr-buyuk.png" group-title="Çocuk",NİCK JR HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481402&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://gbzottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202101/20210113/96/20210113090115172sxw_op_0_XL.png" group-title="Çocuk",NİCKTOONS HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=165&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cbeebies-hd-buyuk.png" group-title="Çocuk",CBEEBİES HD
+http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481394&extension=m3u8
+
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=350" group-title="Çocuk",TRT ÇOCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
@@ -360,13 +480,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
 
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=862" group-title="Müzik",PowerTürk HD
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png?v=4" group-title="Müzik",PowerTürk Akustik HD
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png?v=4" group-title="Müzik",PowerTürk Taptaze HD
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/tatlises-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Müzik",Tatlıses TV HD
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
