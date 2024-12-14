@@ -383,6 +383,9 @@ https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playli
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV
 https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV (YEDEK)
+https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
