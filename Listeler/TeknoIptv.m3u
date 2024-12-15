@@ -141,9 +141,6 @@ https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 FHD (1080)
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=551702&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (KUTU)
-http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/456568
-
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
