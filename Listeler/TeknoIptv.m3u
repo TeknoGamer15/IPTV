@@ -141,6 +141,9 @@ https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 FHD (1080)
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=551702&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 FHD (YEDEK)
+http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/126272
+
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
@@ -355,18 +358,6 @@ http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494628&e
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Bein Box Office 3 HD
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494627&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-comedy-logo.png" group-title="Sinema",Bein Series Comedy FHD
-http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/6205
-
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="Sinema",Bein Series Drama FHD
-http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/457102
-
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-sci-fi-logo.png" group-title="Sinema",Bein Series Sci Fi FHD
-http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/457101
-
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-vice-logo.png" group-title="Sinema",Bein Series Vice FHD
-http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/125800
-
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b7128000.m3u8
 
@@ -379,9 +370,6 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 
 #EXTINF:-1 tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Sinema",Tabii TV
 https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Sinema",Tabii TV (YEDEK)
-https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV
 https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
