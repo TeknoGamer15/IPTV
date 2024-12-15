@@ -355,6 +355,18 @@ http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494628&e
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Bein Box Office 3 HD
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=494627&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-comedy-logo.png" group-title="Sinema",Bein Series Comedy FHD
+http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/6205
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="Sinema",Bein Series Drama FHD
+http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/457102
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-sci-fi-logo.png" group-title="Sinema",Bein Series Sci Fi FHD
+http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/457101
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-vice-logo.png" group-title="Sinema",Bein Series Vice FHD
+http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/125800
+
 #EXTINF:-1 tvg-id="4300" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/6295d4b4866ac31658881736" group-title="Sinema",Play 1 FHD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist_b7128000.m3u8
 
@@ -368,11 +380,14 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Sinema",Tabii TV
 https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240913/32/1053515261995eb8f42a_op_0_XL.png" group-title="Sinema",Tabii TV (YEDEK)
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV
 https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8b6809_be85fb4c475e49218e64703476745236~mv2.png" group-title="Sinema",Joy TV (YEDEK)
-https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Sinema",İsviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
@@ -412,6 +427,9 @@ https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/yeni-gelin.jpg?v=1706513769" group-title="Youtube Dizi",Yeni Gelin
 https://ythls.kekikakademi.org/youtube/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/9/Bn/13518/Thumbnail.png" group-title="Çocuk",BOOMERANG TV HD
+http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/6243
 
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/_/-b/11912/Thumbnail.png" group-title="Çocuk",ÇOCUK SMART FHD
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481406&extension=m3u8
