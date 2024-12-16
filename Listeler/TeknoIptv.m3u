@@ -10,7 +10,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://hw1.jemtv.com/app/KanalD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD (YEDEK 1)
 https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
@@ -36,8 +36,12 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 1)
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 2)
+#EXTVLCOPT:http-referrer=live
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web
+
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+http://89.187.191.41/A2-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD (YEDEK 1)
 http://stream.tvcdn.net/eglence/a2.m3u8
