@@ -36,10 +36,6 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 1)
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 2)
-#EXTVLCOPT:http-referrer=live
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web
-
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD
 http://89.187.191.41/A2-HD-TR/video.m3u8
 
@@ -244,8 +240,8 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/23855_1-0-465-262.jpeg" group-title="Spor",TRT SPOR YILDIZ FHD
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR HD
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
+https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
