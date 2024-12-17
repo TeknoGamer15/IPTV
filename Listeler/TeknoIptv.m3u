@@ -117,6 +117,9 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=646" group-title="Haber",TH TÜRKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/J/D0/100988/Thumbnail.png" group-title="Haber",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor FHD
 https://sftvrkij6gb1uvnirpbo8csgy.medya.trt.com.tr/master_1080p.m3u8
 
@@ -241,7 +244,7 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&app=web
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD
-https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
