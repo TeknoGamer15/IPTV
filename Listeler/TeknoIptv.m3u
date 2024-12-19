@@ -151,12 +151,18 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 1)
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
 
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD (YEDEK 2)
+https://koprulu1.global.ssl.fastly.net/app/innat.m3u8/?id=b1
+
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD (YEDEK 1)
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-2-turkey/159
+
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png" group-title="Spor",Bein Sport 2 HD (YEDEK 2)
+https://koprulu1.global.ssl.fastly.net/app/innat.m3u8/?id=b2
 
 #EXTINF:-1 tvg-id="beINSports3.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-3-buyuk-1.png" group-title="Spor",Bein Sport 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -165,6 +171,9 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-id="beINSports3.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-3-buyuk-1.png" group-title="Spor",Bein Sport 3 HD (YEDEK 1)
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-3-turkey/160
 
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-3-buyuk-1.png" group-title="Spor",Bein Sport 3 HD (YEDEK 2)
+https://koprulu1.global.ssl.fastly.net/app/innat.m3u8/?id=b3
+
 #EXTINF:-1 tvg-id="beINSports4.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png" group-title="Spor",Bein Sport 4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
@@ -172,12 +181,18 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-id="beINSports4.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png" group-title="Spor",Bein Sport 4 HD (YEDEK 1)
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-4-turkey/161
 
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png" group-title="Spor",Bein Sport 4 HD (YEDEK 2)
+https://koprulu1.global.ssl.fastly.net/app/innat.m3u8/?id=b4
+
 #EXTINF:-1 tvg-id="beINSports5.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="Spor",Bein Sport 5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="Spor",Bein Sport 5 HD (YEDEK 1)
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-5-turkey/212
+
+#EXTINF:-1 tvg-id="beINSports5.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="Spor",Bein Sport 5 HD (YEDEK 2)
+https://koprulu1.global.ssl.fastly.net/app/innat.m3u8/?id=b5
 
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="Spor",Bein Sport Max 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -254,6 +269,11 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png" group-title="Belgesel",BEİN İZ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
+https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL FHD
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4628000.m3u8
 
@@ -271,8 +291,8 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/63fdf5a6866ac31b149aa2e0" group-title="Belgesel",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/750x750/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
-https://ythls.kekikakademi.org/youtube/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/ciftcitv.png" group-title="Belgesel",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DiziSmartMax.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/F2/11913/Thumbnail.png" group-title="Sinema",Dizi Smart Max FHD
 http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=2750&extension=m3u8
@@ -458,7 +478,7 @@ https://ythls.armelin.one/channel/UC4fmBMzf7iWyFx7ysCCLqDA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Çocuk",Maşa İle Koca Ayı
 https://ythls.armelin.one/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.herkesduysun.com/static/2024/08/09/niloya-nin-yeni-bolumleri-11-milyon-goruntulenmeyi-gecti-1723212144-133_small.jpg" group-title="Çocuk",Niloya
+#EXTINF:-1 tvg-logo="https://www.herkesduysun.com/static/2024/08/09/niloya-nin-yeni-bolumleri-11-milyon-goruntulenmeyi-gecti-1723212144-133_small.jpg" group-title="Çocuk",Niloya TV
 https://ythls.armelin.one/channel/UCKFIi1uWM9BCMb7O_GyvBsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.edebiyathaber.net/wp-content/uploads/2023/04/tomj.jpg" group-title="Çocuk",Tom Ve Jerry (Cartoonito)
