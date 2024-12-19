@@ -269,11 +269,6 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINIZ.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png" group-title="Belgesel",BEİN İZ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
-#EXTVLCOPT:http-referrer=https://dcdlplayerd91af.xyz/
-https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL FHD
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4628000.m3u8
 
