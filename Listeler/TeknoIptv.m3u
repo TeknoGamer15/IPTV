@@ -249,6 +249,9 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTINF:-1 tvg-logo="https://wimage.exxen.com/img/exxen-logo.png" group-title="Spor",EXXEN (YEDEK)
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dx2NIgXXoqHHi8h8tUiNZqcgB0dcCzT8f9PJsA6M2LtYkO62eS7xtPc3qxneWylV2eDIvrfd=s900-c-k-c0x00ffffff-no-rj" group-title="Spor",EXXEN 2 (İnat)
+https://koprulu1.global.ssl.fastly.net/app/innat.m3u8/?id=exxen2
+
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/40480_0-0-465-261.jpeg" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?app=web
 
