@@ -13,7 +13,7 @@ https://hw1.jemtv.com/app/KanalD/playlist.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD (YEDEK 1)
-https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=518" group-title="Ulusal",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -140,9 +140,6 @@ https://bhf7hmm8y9rrhofca70k2nkf5.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6 FHD
 https://sstoobkb93qgejjfkp4ny7nxd.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 FHD (1080)
-http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=551702&extension=m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png" group-title="Spor",Bein Sport 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -469,6 +466,9 @@ https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TeknoGamer15/IPTV/main/Listeler/Logolar/pepeetv.jpg" group-title="Çocuk",Düşyeri Pepee
 https://ythls.armelin.one/channel/UC4fmBMzf7iWyFx7ysCCLqDA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/0e/21/690e215be6aae350ba068f0ce2442a99.jpg" group-title="Çocuk",Kral Şakir
+https://ythls.kekikakademi.org/youtube/channel/UCtQvrl_0E7ozHb_c8Fy4oWA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PobeYOL-ngQ/maxresdefault.jpg" group-title="Çocuk",Maşa İle Koca Ayı
 https://ythls.armelin.one/channel/UCWbaNJJJQWBOX9U9H9K52Ag.m3u8
