@@ -34,7 +34,7 @@ http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD (YEDEK 1)
-http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=456" group-title="Ulusal",A2 HD
 http://89.187.191.41/A2-HD-TR/video.m3u8
@@ -356,8 +356,14 @@ https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist_w1259916478.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Sinema",İsviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Sinema",Tivi Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/58/58047.png" group-title="Sinema",Mega Sinema TV
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/c2FiYW50di5pemxlLmNhbmxpdHZfaWNvbl8xNjA1ODIyNjg5XzAzNw/icon.png" group-title="Sinema",Mega Şaban TV
+https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720_live.jpg" group-title="Youtube Sinema",Kemal Sunal Filmleri
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
