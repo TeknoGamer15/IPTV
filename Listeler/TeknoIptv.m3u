@@ -411,7 +411,7 @@ http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011
 http://relaxapkpnl.xyz:8080/mhrm0313/mhm00/6242
 
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/nick-jr-buyuk.png" group-title="Çocuk",NİCK JR HD
-http://turkboxtitan.com:8080/play/live.php?mac=00:1A:79:4D:02:E5&stream=481402&extension=m3u8
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84606&t=live&f=ts
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=350" group-title="Çocuk",TRT ÇOCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -478,6 +478,3 @@ https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
-
-#EXTINF:-1 group-title="Deneme",TV Deneme
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ss1
