@@ -33,6 +33,9 @@ https://dygvideo.dygdigital.com/live/hls/startv4puhu
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD (YEDEK 2)
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV FHD
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11906
+
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV HD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
