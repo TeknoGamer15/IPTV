@@ -9,6 +9,9 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD (YEDEK 1)
 https://hw1.jemtv.com/app/KanalD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV FHD
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=13351
+
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV HD
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
@@ -287,7 +290,10 @@ https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=37198
 https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/t/hI/13387/Thumbnail.png" group-title="Belgesel",VİASAT HİSTORY FHD
-https://tyhnkl.xyz/beceriksizler-ozel/dsgo/player-epg.php?id=13387
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=id=13387
+
+#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/_/wh/11899/Thumbnail.png" group-title="Belgesel",DOCU SCREEN FHD
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11899
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=194" group-title="Belgesel",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
