@@ -6,8 +6,8 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D HD (YEDEK 1)
-https://hw1.jemtv.com/app/KanalD/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=390" group-title="Ulusal",KANAL D FHD (YEDEK 1)
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11785
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=517" group-title="Ulusal",ATV FHD
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=13351
@@ -250,6 +250,9 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/nba/112/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/o/DZ/11903/Thumbnail.png" group-title="Spor",NBA TV FHD
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11903
+
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/66ab7a22866ac318108e1f6d" group-title="Spor",EUROSPORT 1 FHD
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist_b7328000.m3u8
 
@@ -296,7 +299,10 @@ https://one.fbf1eb5f21ff67.shop/live/bbcearth/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL FHD
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4628000.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/b/vE/11891/Thumbnail.png" group-title="Belgesel",ID FHD
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/discovery-logo.png" group-title="Belgesel",DİSCOVERY CHANNEL FHD (YEDEK 1)
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11894
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/b/vE/11891/Thumbnail.png" group-title="Belgesel",ID FHD
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11891
 
 #EXTINF:-1 tvg-id="History.tr" tvg-id="History.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/y/Ey/37198/Thumbnail.png" group-title="Belgesel",HİSTORY FHD
@@ -346,7 +352,7 @@ https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=12174
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/w/Uq/16203/Thumbnail.png" group-title="Sinema",FX FHD
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=16203
 
-#EXTINF:-1 tvg-id="FilmBox.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/w/Uq/16203/Thumbnail.png" group-title="Sinema",Film Screen FHD
+#EXTINF:-1 tvg-id="FilmBox.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/Y/-N/11902/Thumbnail.png" group-title="Sinema",Film Screen FHD
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11902
 
 #EXTINF:-1 tvg-id="SinemaTV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/T/QU/22894/Thumbnail.png" group-title="Sinema",Sinema TV FHD
