@@ -193,6 +193,9 @@ https://kanaldvod.duhnet.tv/hls/l/9Z/us_5_blm/us_5_blm.smil/chunklist_b2400000.m
 #EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/1920x1080/676001ca220b6d097153f70c.jpg" group-title="Uzak Şehir",Uzak Şehir 6.Bölüm
 https://kanaldvod.duhnet.tv/hls/t/QW/us_6blm_rev/us_6blm_rev.smil/chunklist_b2400000.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/1920x1080/676931d20c78abb14dbe3684.jpg" group-title="Uzak Şehir",Uzak Şehir 7.Bölüm
+https://kanaldvod.duhnet.tv/hls/q/S2/us_7_blm/us_7_blm.smil/chunklist_b2400000.m3u8
+
 
 
 
