@@ -331,10 +331,7 @@ https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=37198
 #EXTVLCOPT:http-referrer=https://dizi5.life/
 https://one.fbf1eb5f21ff67.shop/live/history/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/t/hI/13387/Thumbnail.png" group-title="Belgesel",VİASAT HİSTORY FHD (YENİ)
-https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=id=13387
-
-#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/_/wh/11899/Thumbnail.png" group-title="Belgesel",DOCU SCREEN FHD (YENİ)
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/_/wh/11899/Thumbnail.png" group-title="Belgesel",DOCU SCREEN FHD (YENİ)
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11899
 
 #EXTINF:-1 tvg-id="TarihTV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/1/Fd/58626/Thumbnail.png" group-title="Belgesel",TARİH TV FHD (YENİ)
@@ -363,9 +360,6 @@ https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=13863
 
 #EXTINF:-1 tvg-id="58d29bb0eefad3db9c606278" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/F2/11913/Thumbnail.png" group-title="Sinema",Dizi Smart Max FHD (YENİ)
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11913
-
-#EXTINF:-1 tvg-id="58d29bb0eefad3db9c606278" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/F2/11913/Thumbnail.png" group-title="Sinema",Dizi Smart Max FHD (YEDEK 1)
-https://tyhnkl.xyz/dsmart/play.m3u8?v=https://dsmartgo-live.ercdn.net/dsmartgo/dizismartmax/dizismartmax.isml/dizismartmax-audio_tur=96000-video=3000000.m3u8?st=l9g1XW85ppZhNiCukoFkWw%26e=1735043300%26uid=25510265%26sid=lwHMpvQCEJHFDw%26userid=ed23797%26reqid=0ef6502a33d691640f65d50db233f08d%26tmode=1
 
 #EXTINF:-1 tvg-id="DiziSmartPremium.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/d/9U/12174/Thumbnail.png" group-title="Sinema",Dizi Smart Premium FHD (YENİ)
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=12174
