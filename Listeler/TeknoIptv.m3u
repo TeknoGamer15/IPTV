@@ -544,3 +544,6 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="Deneme",Dizi Deneme
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/chunklist_b1800000_t64MTgwMGticHM=.m3u8
+
+#EXTINF:-1 group-title="Deneme",TV Deneme
+https://tyhnkl.xyz/beceriksizler-ozel/dsgo/player-epg.php?id=11913
