@@ -33,9 +33,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sta
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV FHD (YEDEK 1)
 https://dygvideo.dygdigital.com/live/hls/startv4puhu
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=515" group-title="Ulusal",STAR TV HD (YEDEK 2)
-http://hw1.jemtv.com/app/StarTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://donanimarsivi.com/wp-content/uploads/2024/01/now-tv.jpeg" group-title="Ulusal",NOW TV FHD (YENİ)
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=11906
 
@@ -297,9 +294,6 @@ https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=13729
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=279" group-title="Spor",A SPOR FHD (YEDEK 1)
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
-#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="Spor",HT SPOR FHD
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/V/zw/16198/Thumbnail.png" group-title="Spor",NATİONAL GEOGRAPHİC FHD (YENİ)
 https://tyhnkl.xyz/beceriksizler-ozel/dsgo/go.m3u8?idx=16198
 
@@ -422,9 +416,6 @@ https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Sinema",İsviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Sinema",Tivi Türk
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TeknoGamer15/IPTV/main/Listeler/Logolar/sabantv.jpg" group-title="Sinema",Mega Şaban TV
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
@@ -445,9 +436,6 @@ https://ythls.kekikakademi.org/youtube/channel/UCYWwhdgFmZR0uWwaS-GURyg.m3u8
 
 #EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="Youtube Dizi",Ezel
 https://ythls.kekikakademi.org/youtube/channel/UC82UK_P4DuDZ42Q0SHcey1w.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/maxresdefault.jpg" group-title="Youtube Dizi",Geniş Aile
-https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvreklam.com.tr/wp-content/uploads/2021/05/atv-kardeslerim-tv-reklam.jpg" group-title="Youtube Dizi",Kardeşlerim Tüm Bölümler
 https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
@@ -559,5 +547,5 @@ https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fda
 
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/e/Bj/11896/Thumbnail.png" group-title="Deneme",TV DENEME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvplus.com.tr/canli-tv
+#EXTVLCOPT:http-referrer=https://widevine.tvplus.com.tr:8063
 https://izmottrrs.tvplus.com.tr:443/PLTV/88888888/224/3221229530/3221229530.mpd?rrsip=gbzottrrs.tvplus.com.tr:443&zoneoffset=0&devkbps=190-6750&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=9001&accountinfo=1WKbc7bA7p6icHHld6JqoLXLVb5wh4eZF3yacHb9dV%2BpbvE5kg66HCfff%2BUX9ufeyRWK1PPBMDi%2Bo1QnEGR6ONo9fAev4H7nA3Fwz%2FHNd6TqMOSf6czkrpcujyA71bujRLu6oyOgzBksZrIegH9cFVPAkoUf1b89lZievTROCy0zq5XlKJ7JMabmxeM83fZv%3A20241224192856%3AUTC%2C%2C%2C20241224192856%2Curn%3AHuawei%3AliveTV%3A001300000008479179%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C0%2C%2C%2C%2C%2C2%2C1%2C100068579%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OywqDMBBF_ybL4LM1i6wshUKxBW23ZUwmqRiNTVTo31fFRXdzh3Mud3Qg8HLikYyyBFmNR4FJyhiTKkoZqng50kMCxOOnsDwiAoxpel1YuWrPMn-FAY1DGmY0YaRa684GNA82spi6Gt0eFq1ENzcCufSKzuApaO1Qw9jYnt4NfB_O7AjBap_WT8aQcQ0V-HZ5kDf43HYDOJRXqzeOKzAeyQCiBY0FdPjn3ZxcRvwAkNO1QOsAAAA
